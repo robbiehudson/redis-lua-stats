@@ -1,0 +1,5 @@
+Redis Lua Stats Recipes
+
+Some basic recipes to get you started with the Redis scripting branch.
+
+NB: This is my first experience with Lua so be gentle :P
