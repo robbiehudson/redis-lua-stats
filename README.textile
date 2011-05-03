@@ -1,4 +1,4 @@
-Redis Lua Stats Recipes
+h1. Redis Lua Stats Recipes
 
 Some basic recipes to get you started with the Redis scripting branch.
 
