@@ -2,4 +2,10 @@ h1. Redis Lua Stats Recipes
 
 Some basic recipes to get you started with the Redis scripting branch.
 
+Feel free to fork and edit or add your own :)
+
+To run these checkout the latest scripting branch of Redis, compile and kick off the server. Then do:
+
+@redis-cli eval "$(cat <path to script>)" 1 <key of existing list>@
+
 NB: This is my first experience with Lua so be gentle :P
